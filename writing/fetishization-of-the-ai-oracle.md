@@ -1,3 +1,4 @@
+# Fetishization of the AI Oracle
 # Introduction
 There is an ideological investment in the idea that technology is neutral. However, true neutrality doesn't exist and typically this status quo or neutral position is one that is in service of power.  This position reflects a Euclidean notion of spatiality, one that assumes absolute position and a top-down perspective. The notion of a "view from nowhere", an ideologically objective and removed position, should be challenged, as it assumes a single, solitary perspective from a static viewpoint. We must challenge this view, and respond with the world as round and space and position as relative. This turn from the Euclidean to the non-euclidean is a turn to an embrace of subjectivity.  Many scholars and thinkers have advocated for this new understanding of spatiality as relative against the euclidean/cartesian understanding of objectivity and neutrality.  For example, Hito Steyerl looks at the evolution of the perspective and its ties to modern GIS technology in her essay *In Free Fall: A Thought Experiment on Vertical Perspective.*[1] Everything comes with its own epistemological and ontological presuppositions, which is why, as abstract as it may seem it is necessary to investigate and critique these underpinnings. It is with this insight that we then began an investigation into the fetish object that is Artificial intelligence. We will return to these notions of spatiality at the end to see what a non-euclidean understanding space has to say about the ways in which AI is shaping and being shaped by our modern techno-culture. 
 
@@ -62,43 +63,3 @@ Topology here refers to the mathematical concept of a topological space, encodin
 [3]
 [4]
 [5] https://news.crunchbase.com/web3/startup-funding-q4-drop/.
-
-danmcquillan.org/chatgpt.html
-https://www.noemamag.com/the-exploited-labor-behind-artificial-intelligence/
-https://www.thedrive.com/tech/39540/google-tells-search-users-its-a-good-idea-to-throw-car-batteries-into-the-ocean
-https://tis.so/thomas-running
-https://time.com/6247678/openai-chatgpt-kenya-workers/
-https://time.com/6246018/facebook-sama-quits-content-moderation/
-https://time.com/6147458/facebook-africa-content-moderation-employee-treatment/
-
-https://www.businessdailyafrica.com/bd/corporate/companies/facebook-parent-firm-fails-to-stop-court-case-in-kenya-4112968
-https://www.noemamag.com/the-exploited-labor-behind-artificial-intelligence/
-https://news.crunchbase.com/web3/startup-funding-q4-drop/
-
-
-<u>Outline</u>
-
-- Introduction 
-	- Technology is not neutral 
-	- AI as a modern-day Oracle
-- Artificial Intelligence as Fetish Object
-	- Summarize marx's theory of commodity fetishization how we imbue things made for consumption with value that is divorced or separated from the social relations and labor that goes into them
-	- The fetishized nature of AI i.e. why are tech bros losing their minds –AI without labor
-	- [[What does it mean that machines are talking to each other]]
-	- Where is the labor in AI https://www.noemamag.com/the-exploited-labor-behind-artificial-intelligence/
-	- 
-- The Rise of Large Language Models
-	-  What are Large Language Models and Their Origins
-	-   The Impact of OpenAI and the Future of AI/ML Technologies
-	- https://huggingface.co/blog/rlhf
-	- what is an LLM
-	- Where did they come from
-	- Where did openAI come from, who benefits here
-	- coming of consumer/SMB facing AI/ML technologies
-- Where do we go from here
-	-  [[What does it mean to be a creative in the age of Automation]] 
-	- Alienation: A Misunderstanding of the Ontological Nature of Digital Objects  
-
-stuff to check outline 
-https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web
-https://techcrunch.com/2023/02/08/ai-is-eating-itself-bings-ai-quotes-covid-disinfo-sourced-from-chatgpt/

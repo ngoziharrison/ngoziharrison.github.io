@@ -1,4 +1,4 @@
-#blacktechnicalobject #blackpathology #ai #machinelearning
+# How do we set the Black Technical Object free?
 
 By analyzing it I hope to destroy it 
 
@@ -36,13 +36,3 @@ The issue with much of the prevailing thought in post-humanism is that it thinks
   
 
 How might we renegotiate a relationship between black creativity and machinic intelligence? How might the Black technical object be free from the white gaze and gaze back at itself? How might the Black technical object finally set itself free?
-
-**
-
-#todo 
-- [x] Finish essay for cals exhibition
-
-**Links**
-[[can-the-black-technical-object-build-a-new-relationship-to-the-machine-and-math]]
-[[amaro-ramon-2023-the-black-technical-object]]
-[[../In progress/On the Black Technical Object, TESCREAL Ideologies, and Eugenics in AGI]]
