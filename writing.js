@@ -4,7 +4,7 @@
     let htmlString = '<ul>';
     
     for (let file of data) {
-      if(file.path.includes('html')){  
+      if(file.path.includes('md')){  
         htmlString += `<li><a href="${file.path}">${file.name}</a></li>`;
       }
     }
