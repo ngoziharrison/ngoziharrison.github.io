@@ -1,5 +1,5 @@
 (async () => {
-    const response = await fetch('https://api.github.com/repos/ngoziharrison/ngozi-presentations/contents/');
+    const response = await fetch('https://api.github.com/repos/ngoziharrison/ngoziharrison.github.io/contents/writing');
     const data = await response.json();
     let htmlString = '<ul>';
     
