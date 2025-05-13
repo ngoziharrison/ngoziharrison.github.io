@@ -1,6 +1,3 @@
-----
-
-----
 
 # Research Philosophy
 
