@@ -17,45 +17,58 @@ This is a reading list I have put together which includes the many books, articl
 
 
 ## Probability and Statistics
-Ian Hacking, "The Taming of Chance"
-Justin Joque, "Revolutionary Mathematics"
+- Ian Hacking, "The Taming of Chance"
+- Justin Joque, "Revolutionary Mathematics"
+- Oscar Gandy Jr, "Coming to Terms with Chance: Engaging Rational Discrimination and Cumulative Disadvantage"
 
 ## Black Studies on Math
-Katherine McKittrick, “Mathematics Black Life”
-Calvin Warren, “The Catastrophe: Black Feminist Poethic, (Anti)form, and Mathematical Nihilism”
-Denise Ferreira Da Silva, “On Matter Beyond the Equation of Value”
-Fred Moten, “The T(o)uring Machine”
+- Katherine McKittrick, “Mathematics Black Life”
+- Calvin Warren, “The Catastrophe: Black Feminist Poethic, (Anti)form, and Mathematical Nihilism”
+- Denise Ferreira Da Silva, “On Matter Beyond the Equation of Value”
+- Fred Moten, “The T(o)uring Machine”
 
 ## Machine Learning and Algorithms
-Ramon Amaro, "The Black technical object: on machine learning and the aspiration of Black being"
-Ramon Amaro, "As If"
-Rodrigo Ochigame, "The Long History of Algorithmic Fairness"
+- Cathy O'Neil, Weapons of Math Destruction
+- Ramon Amaro, "The Black technical object: on machine learning and the aspiration of Black being"
+- Ramon Amaro, "As If"
+- Rodrigo Ochigame, "The Long History of Algorithmic Fairness"
+- Oscar Gandy Jr, "Engaging rational discrimination: exploring reasons for placing regulatory constraints on decision support systems"
+- Morgan G. Ames and Massimo Mazzotti (Editors), "Algorithmic Modernity: Mechanizing Thought and Action, 1500-2000" 
 
 
 ## Computation
-Romi Ron Morrison, "Voluptuous Disintegration: A Future History of Black Computational Thought"
-Luciana Parisi and Ezekiel Dixon-Roman, "Recursive Colonialism and Cosmo-Computation"
-Luciana Parisi, "Contagious Architecture"
+- Romi Ron Morrison, "Voluptuous Disintegration: A Future History of Black Computational Thought"
+- Luciana Parisi and Ezekiel Dixon-Roman, "Recursive Colonialism and Cosmo-Computation"
+- Luciana Parisi, "Contagious Architecture"
 
 ## Logic
-Val Plumwood, "The politics of reason: Towards a feminist logic"
-Jonathan Chimanokam, "Ezumezu: A System of Logic for African Philosophy and Studies"
+- Val Plumwood, "The politics of reason: Towards a feminist logic"
+- Jonathan Chimanokam, "Ezumezu: A System of Logic for African Philosophy and Studies"
+- Elena Ficara, "Logic and Discrimination"
 
 ## Ethnomathematics
-Ron Eglash, "African Fractals: Modern Computing and Indigenous Design"
-Arthur B. Powell, Marilyn Frankenstein (Editors), "Ethnomathematics
+- Ron Eglash, "African Fractals: Modern Computing and Indigenous Design"
+- Arthur B. Powell, Marilyn Frankenstein (Editors), "Ethnomathematics
 
 ## Topology
-Celia Lury, Luciana Parisi, Tiziana Terranova,"Introduction: The Becoming Topological of Culture"
+- Celia Lury, Luciana Parisi, Tiziana Terranova,"Introduction: The Becoming Topological of Culture"
+- Rob Shields, "Spatial questions: cultural topologies and social spatialisations"
 
 ## Mathematical Practice
-Rodrigo Ochigame, "Automated Mathematics and the Reconfiguration of Proof and Labor"
+- Rodrigo Ochigame, "Automated Mathematics and the Reconfiguration of Proof and Labor"
+- Brian Martin, "Mathematics and Social Interests"
+
+## Calculus/Analysis
+- Karl Marx, "Mathematical Manuscripts"
+- Carl B. Boyer, "The Concepts of the Calculus"
 
 ## Philosophy
-Hegel, "Who Thinks Abstractly"
-Hegel, "Science of Logic"
-Alain Badiou, "Being and Event"
-Alain Badiou, "Logic of Worlds"
-Alain Badiou, "The Concept of Model: An Introduction to the Materialist Epistemology of Mathematics"
+- Hegel, "Who Thinks Abstractly"
+- Hegel, "Science of Logic"
+- Alain Badiou, "Being and Event"
+- Alain Badiou, "Logic of Worlds"
+- Alain Badiou, "The Concept of Model: An Introduction to the Materialist Epistemology of Mathematics"
+- Ian Hacking, "Why Is There Philosophy of Mathematics At All?"
+
 
 
