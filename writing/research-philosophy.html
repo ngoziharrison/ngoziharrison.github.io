@@ -13,8 +13,7 @@
     fetch('https://ngoziharrison.github.io/writing/research-philosophy.md')
     .then(response => response.text())
     .then((data) => {
-        document.getElementById('content').innerHTML +=
-      marked.parse(data);
+        document.getElementById('content').innerHTML += marked.parse(data);
     })  
   </script>
 </head>
