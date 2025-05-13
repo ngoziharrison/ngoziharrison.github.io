@@ -1,5 +1,5 @@
 
-# $\text{blackness} \cap \text{mathematics} \cap \text{information}$.
+# $\text{blackness} \cap \text{mathematics} \cap \text{information}$
 
 As long as I can remember I have loved math. Growing up my Dad was a math teacher and 
 
@@ -17,12 +17,45 @@ This is a reading list I have put together which includes the many books, articl
 
 
 ## Probability and Statistics
+Ian Hacking, "The Taming of Chance"
+Justin Joque, "Revolutionary Mathematics"
+
+## Black Studies on Math
+Katherine McKittrick, “Mathematics Black Life”
+Calvin Warren, “The Catastrophe: Black Feminist Poethic, (Anti)form, and Mathematical Nihilism”
+Denise Ferreira Da Silva, “On Matter Beyond the Equation of Value”
+Fred Moten, “The T(o)uring Machine”
 
 ## Machine Learning and Algorithms
+Ramon Amaro, "The Black technical object: on machine learning and the aspiration of Black being"
+Ramon Amaro, "As If"
+Rodrigo Ochigame, "The Long History of Algorithmic Fairness"
+
 
 ## Computation
+Romi Ron Morrison, "Voluptuous Disintegration: A Future History of Black Computational Thought"
+Luciana Parisi and Ezekiel Dixon-Roman, "Recursive Colonialism and Cosmo-Computation"
+Luciana Parisi, "Contagious Architecture"
 
 ## Logic
+Val Plumwood, "The politics of reason: Towards a feminist logic"
+Jonathan Chimanokam, "Ezumezu: A System of Logic for African Philosophy and Studies"
 
 ## Ethnomathematics
+Ron Eglash, "African Fractals: Modern Computing and Indigenous Design"
+Arthur B. Powell, Marilyn Frankenstein (Editors), "Ethnomathematics
+
+## Topology
+Celia Lury, Luciana Parisi, Tiziana Terranova,"Introduction: The Becoming Topological of Culture"
+
+## Mathematical Practice
+Rodrigo Ochigame, "Automated Mathematics and the Reconfiguration of Proof and Labor"
+
+## Philosophy
+Hegel, "Who Thinks Abstractly"
+Hegel, "Science of Logic"
+Alain Badiou, "Being and Event"
+Alain Badiou, "Logic of Worlds"
+Alain Badiou, "The Concept of Model: An Introduction to the Materialist Epistemology of Mathematics"
+
 
