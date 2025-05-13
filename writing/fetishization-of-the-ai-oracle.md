@@ -15,7 +15,7 @@ The evangelists and champions of AI would have us believe that AI will ultimatel
 
 [insert original tweet about AI being inductive proof marx was wrong]
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">You still occasionally hear people saying that founders don&#39;t deserve to be rich, because their employees created all the value. But the falsity of this claim becomes increasingly obvious as automation enables founders to grow companies with fewer and fewer employees.</p>&mdash; Paul Graham (@paulg) <a href="https://twitter.com/paulg/status/1600119268858744832?ref_src=twsrc%5Etfw">December 6, 2022</a></blockquote>
+<blockquote class="blockquote twitter-tweet"><p lang="en" dir="ltr">You still occasionally hear people saying that founders don&#39;t deserve to be rich, because their employees created all the value. But the falsity of this claim becomes increasingly obvious as automation enables founders to grow companies with fewer and fewer employees.</p>&mdash; Paul Graham (@paulg) <a href="https://twitter.com/paulg/status/1600119268858744832?ref_src=twsrc%5Etfw">December 6, 2022</a></blockquote>
 
 AI and ML don't allow would be founders to completely expunge labor but essentially crowdsource labor for "free" or near free and leverage it to obtain the value. What we are talking about is simply labor that has been calcified into symbolic algorithmic representation and is abstracted away. 
 
