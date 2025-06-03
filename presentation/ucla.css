@@ -1,0 +1,141 @@
+/*!
+ * Marp theme
+ * @theme ucla
+ * @author Ngozi Harrison https://github.com/ngoziharrison
+ *
+*/
+
+@import 'default';
+
+:root {
+  background-color: #fff;
+  color: #000;
+  background-image: url('images/logo_UCLA_white_boxed.png');
+  background-repeat: no-repeat;
+  background-position: right 40px top 40px;
+  background-size: 8%;
+}
+
+section.lead {
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/University_of_California%2C_Los_Angeles_logo.svg/2880px-University_of_California%2C_Los_Angeles_logo.svg.png');
+  background-position: right;
+  background-size: 45%;
+}
+
+section h1,
+section a,
+section footer,
+section::after {
+  color: #0065bd;
+}
+
+section.invert {
+  background-color: #003B5C;
+  color: #fff;
+  background-image: url('images/logo_UCLA_white_boxed.png');
+}
+
+section.lead.invert {
+  /*background-image: url('');*/
+}
+
+section.invert h1,
+section.invert footer,
+section.invert::after {
+  color: #fff;
+}
+
+section.invert a {
+  color: #fff;
+}
+
+/* Add "Page" prefix and total page number */
+section::after {
+  content: attr(data-marpit-pagination) ' / ' attr(data-marpit-pagination-total);
+}
+
+
+.columns {  
+  columns: 2; 
+}
+
+h1,  p, li { 
+  text-align: left;
+}
+
+p { 
+  font-weight: lighter;
+} 
+
+mark {
+  color: #ffff;
+  text-decoration: underline;
+  text-decoration-color: #FFB81C;
+  background: #003B5C;
+}
+
+/*li {color: #e0def4 ;}*/
+
+section.title h1 {
+  font-size: 300%;
+}
+
+section.title h1 {
+  font-size: 300%;
+}
+
+section.title-invert {
+  background-color: #003B5C;
+  color: #fff;
+  background-image: url('/Users/ngoziharrison/Documents/ngozi-obsidian/Files/logo_UCLA_white_boxed.png');
+}
+
+section.title-invert h1 {
+  font-size: 300%;
+  color: inherit;
+  
+}
+
+section.title-invert h1,
+section.title-invert footer,
+section.title-invert::after {
+  color: #fff;
+}
+
+
+blockquote {
+  font-weight: bold;
+  margin: 0;
+  background: #eee;
+  padding: 1em;
+  
+}
+
+
+
+
+svg[id^='mermaid-'] {
+  min-width: 480px;
+  max-width: 960px;
+  min-height: 360px;
+  max-height: 600px;
+  display: block;
+  margin: 0 auto;
+}
+
+table {
+  table-layout: fixed;
+  width: 100%;
+  height: 100%;
+  font-size: 1vw;
+}
+
+.container{
+  display: flex;
+  gap: 10%;
+}
+.col{
+  flex: 1;
+}
+
+
