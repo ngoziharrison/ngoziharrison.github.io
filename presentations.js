@@ -4,7 +4,7 @@
     let htmlString = '<ul class="px-0">';
     
     for (let file of data) {
-      if(file.path.includes('html') || file.type.includes("dir")){  
+      if((file.path.includes('html') || file.type.includes("dir")) && !file.path.includes("iapresenter")){  
         htmlString += `<li class = ""><a href="https://ngoziharrison.github.io/ngozi-presentations/${file.path}">${file.name.replace(/\.[^/.]+$/, "")}</a></li>`;
       }
     }
