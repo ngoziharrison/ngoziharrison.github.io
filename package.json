@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist -b v2"
   },
   "dependencies": {
     "@fontsource-variable/jetbrains-mono": "^5.2.8",
