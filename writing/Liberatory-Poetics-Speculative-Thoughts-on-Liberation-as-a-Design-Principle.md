@@ -1,3 +1,13 @@
+<<<<<<< Updated upstream:writing/Liberatory-Poetics-Speculative-Thoughts-on-Liberation-as-a-Design-Principle.md
+=======
+---
+title: Liberatory Poetics - Speculative Thoughts on Liberation as a Design Principle
+draft: false
+
+---
+
+
+>>>>>>> Stashed changes:src/blog/Liberatory-Poetics-Speculative-Thoughts-on-Liberation-as-a-Design-Principle.md
 This is a collection of interconnected/interdependent loosely structured thoughts on liberation as a design principle. These thoughts don't necessarily put any novel ideas forward or purport to give an actionable plan, but instead seek to hover around the topic, discerning its contours and edges.
 
 ## How might we design liberatory technologies 

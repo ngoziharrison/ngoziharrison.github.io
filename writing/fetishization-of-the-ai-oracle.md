@@ -1,4 +1,14 @@
+<<<<<<< Updated upstream:writing/fetishization-of-the-ai-oracle.md
 # Fetishization of the AI Oracle
+=======
+---
+title: Fetishization of the AI Oracle
+date: 
+draft: false
+---
+
+
+>>>>>>> Stashed changes:src/blog/fetishization-of-the-ai-oracle.md
 # Introduction
 There is an ideological investment in the idea that technology is neutral. However, true neutrality doesn't exist and typically this status quo or neutral position is one that is in service of power.  This position reflects a Euclidean notion of spatiality, one that assumes absolute position and a top-down perspective. The notion of a "view from nowhere", an ideologically objective and removed position, should be challenged, as it assumes a single, solitary perspective from a static viewpoint. We must challenge this view, and respond with the world as round and space and position as relative. This turn from the Euclidean to the non-euclidean is a turn to an embrace of subjectivity.  Many scholars and thinkers have advocated for this new understanding of spatiality as relative against the euclidean/cartesian understanding of objectivity and neutrality.  For example, Hito Steyerl looks at the evolution of the perspective and its ties to modern GIS technology in her essay *In Free Fall: A Thought Experiment on Vertical Perspective.*[1] Everything comes with its own epistemological and ontological presuppositions, which is why, as abstract as it may seem it is necessary to investigate and critique these underpinnings. It is with this insight that we then began an investigation into the fetish object that is Artificial intelligence. We will return to these notions of spatiality at the end to see what a non-euclidean understanding space has to say about the ways in which AI is shaping and being shaped by our modern techno-culture. 
 
@@ -13,9 +23,10 @@ My argument is that artificial intelligence has taken on the nature of a fetish 
 # Why are Tech Bros Losing Their Minds
 The evangelists and champions of AI would have us believe that AI will ultimately make work irrelevant and lead to the final triumph of capital over labor. Paul graham recently posted a Twitter thread asserting that "AI is inductive proof that Marx was wrong about his labor theory of value". Utilizing a  very simplistic understanding of LTV that essentialized Marxist theory, he posits that AI shows why founders deserve to make considerably more money than their workers. In fairness, he did delete the tweet with reference to Marx but maintained, in fact, doubled down, on the point that founders can grow without many employees, hence they are not valuable. The incredulous nature of the very claims is pretty self-evident and really I won't spend time here disputing them but this provides a good opportunity to speak to the invisible labor that goes into AI and machine learning models.
 
-[insert original tweet about AI being inductive proof marx was wrong]
 
-<blockquote class="blockquote twitter-tweet"><p lang="en" dir="ltr">You still occasionally hear people saying that founders don&#39;t deserve to be rich, because their employees created all the value. But the falsity of this claim becomes increasingly obvious as automation enables founders to grow companies with fewer and fewer employees.</p>&mdash; Paul Graham (@paulg) <a href="https://twitter.com/paulg/status/1600119268858744832?ref_src=twsrc%5Etfw">December 6, 2022</a></blockquote>
+>You still occasionally hear people saying that founders don&#39;t deserve to be rich, because their employees created all the value. But the falsity of this claim becomes increasingly obvious as automation enables founders to grow companies with fewer and fewer employees. 
+
+&mdash; [Paul Graham (@paulg)](https://twitter.com/paulg/status/1600119268858744832?ref_src=twsrc%5Etfw), December 6, 2022
 
 AI and ML don't allow would be founders to completely expunge labor but essentially crowdsource labor for "free" or near free and leverage it to obtain the value. What we are talking about is simply labor that has been calcified into symbolic algorithmic representation and is abstracted away. 
 

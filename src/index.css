@@ -1,0 +1,23 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+@plugin "@tailwindcss/typography";
+
+@custom-variant dark (&:is(.dark *));
+
+body {
+  @apply bg-white dark:bg-[#191919] text-[#262626] dark:text-zinc-100 min-h-screen;
+}
+
+[data-slot="accordion-trigger-icon"] {
+  display: none;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+@theme {
+  --font-sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+

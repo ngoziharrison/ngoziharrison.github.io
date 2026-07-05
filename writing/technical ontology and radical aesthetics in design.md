@@ -1,4 +1,11 @@
+<<<<<<< Updated upstream:writing/technical ontology and radical aesthetics in design.md
 
+=======
+---
+title: Technical ontology and radical aesthetics in design
+draft: false
+---
+>>>>>>> Stashed changes:src/blog/technical ontology and radical aesthetics in design.md
 
 If we think of design as joining the technical and aesthetics to create something with utility, then in order to radically reimagine design we have to first deconstruct it to a philosophy of the technical and aesthetics. These philosophies are ultimately encoded in the design principles at play and results of the design process. In the philosophy of the technical we are considering the way we understand the nature of technical things, systems, digital objects etc. The ontological nature of these abstract things and thingness/(no)thingness may seem trivial, however it informs the questions we ask or don't as during the design process and can contribute to alienation. Aesthetics also encodes cultural values and for my work I seek to take inspiration from the radical aesthetics of Sylvia Wynter under/overstands aesthetic practice as always already political and mainstream aesthetic practice often presupposes and enacts a negation of Black being. 
 
