@@ -11,6 +11,10 @@ import { BlogView } from './Blog-view'
 import { getBlogPostMetadata } from './Blog-view'
 import { CurrentReadingShelf } from './CurrentReadingShelf'
 import { Toggle } from '@/components/ui/toggle'
+import { NavLink } from "react-router"
+import { Index } from './Index-Table'
+import {  ArrowDown } from "lucide-react";
+
 //import { Diagrams } from './diagrams'
 
 function App() {
@@ -61,9 +65,9 @@ function App() {
 };
 
   return (
-    <div className="flex flex-col max-h-screen">
+    <div className="flex flex-col">
       {/* <Diagrams /> */}
-      <section id="home" className="flex-1 flex flex-col items-start justify-start mx-2 md:mx-4 my-2">
+      <section id="home" className="flex-1 flex flex-col items-start justify-start mx-2 md:mx-4 my-2 min-h-[100vh]">
         <Accordion type="single" collapsible className="w-full">
           <AccordionItem value="bio">
             <AccordionTrigger className="text-6xl md:text-8xl font-normal">Ngozi Harrison</AccordionTrigger>
@@ -91,8 +95,8 @@ function App() {
           </AccordionItem>
         </Accordion>
 
-        <p className="text-6xl md:text-8xl">Research</p>
-        <button onClick={() => setPanel('presentations')} className="text-6xl md:text-8xl text-left hover:underline">Presentations</button>
+        <NavLink to="research" className="text-6xl md:text-8xl hover:underline">Research</NavLink>
+        {/* <button onClick={() => setPanel('presentations')} className="text-6xl md:text-8xl text-left hover:underline">Presentations</button> */}
         <Accordion type="single" collapsible className="w-full">
           <AccordionItem value="current-reading">
             <AccordionTrigger className="text-6xl md:text-8xl font-normal">Current Reading</AccordionTrigger>
@@ -102,7 +106,11 @@ function App() {
           </AccordionItem>
         </Accordion>
         <button onClick={() => setPanel('about')} className="text-6xl md:text-8xl text-left hover:underline">About</button>
+        <div className="absolute bottom-20 left-1/2 transform -translate-x-1/2 animate-bounce">
+          <ArrowDown className="w-8 h-8 text-black/30" />
+        </div>
       </section>
+      <Index></Index>
 
       <Sidebar isOpen={activePanel !== null} onClose={() => setPanel(null)}>        {activePanel === 'cv' && <CV />}
         {activePanel === 'about' && <About />}
@@ -110,7 +118,7 @@ function App() {
         {activePanel === 'presentations' && <Presentations />}
       </Sidebar>
       <BlogView isOpen={activeBlogPost !== null} onClose={closeBlogPost} blogpost={activeBlogPost} />
-      <Toggle onClick={toggleTheme} className="fixed bottom-4 right-4 px-4 py-2 bg-neutral-800 text-white rounded hover:bg-neutral-700 focus:outline-none">Toggle Theme</Toggle>
+      <Toggle onClick={toggleTheme} className="fixed bottom-4 right-4 px-4 py-2 bg-neutral-800! text-white! dark:bg-neutral-800 dark:text-white rounded hover:bg-neutral-700 focus:outline-none">Toggle Theme</Toggle>
       <Footer />
     </div>
   )

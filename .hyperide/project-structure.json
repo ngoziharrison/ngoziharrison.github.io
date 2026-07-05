@@ -1,0 +1,18 @@
+{
+  "atomComponentsPaths": [
+    "src/components/ui"
+  ],
+  "compositeComponentsPaths": [
+    "src/components"
+  ],
+  "pagesPaths": [
+    "src/About.tsx",
+    "src/App.tsx",
+    "src/Blog-view.tsx",
+    "src/CurrentReadingShelf.tsx",
+    "src/Footer.tsx",
+    "src/Presentations.tsx",
+    "src/Sidebar.tsx",
+    "src/Teaching.tsx"
+  ]
+}

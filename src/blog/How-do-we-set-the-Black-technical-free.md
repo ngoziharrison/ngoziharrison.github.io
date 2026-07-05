@@ -1,12 +1,7 @@
-<<<<<<< Updated upstream:writing/How-do-we-set-the-Black-technical-free.md
-# How do we set the Black Technical Object free?
-=======
 ---
 title: How do we set the Black Technical Object free?
-date: 
 draft: false
 ---
->>>>>>> Stashed changes:src/blog/How-do-we-set-the-Black-technical-free.md
 
 By analyzing it I hope to destroy it 
 

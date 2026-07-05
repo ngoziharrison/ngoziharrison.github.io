@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream:writing/fetishization-of-the-ai-oracle.md
-# Fetishization of the AI Oracle
-=======
 ---
 title: Fetishization of the AI Oracle
 date: 
@@ -8,7 +5,6 @@ draft: false
 ---
 
 
->>>>>>> Stashed changes:src/blog/fetishization-of-the-ai-oracle.md
 # Introduction
 There is an ideological investment in the idea that technology is neutral. However, true neutrality doesn't exist and typically this status quo or neutral position is one that is in service of power.  This position reflects a Euclidean notion of spatiality, one that assumes absolute position and a top-down perspective. The notion of a "view from nowhere", an ideologically objective and removed position, should be challenged, as it assumes a single, solitary perspective from a static viewpoint. We must challenge this view, and respond with the world as round and space and position as relative. This turn from the Euclidean to the non-euclidean is a turn to an embrace of subjectivity.  Many scholars and thinkers have advocated for this new understanding of spatiality as relative against the euclidean/cartesian understanding of objectivity and neutrality.  For example, Hito Steyerl looks at the evolution of the perspective and its ties to modern GIS technology in her essay *In Free Fall: A Thought Experiment on Vertical Perspective.*[1] Everything comes with its own epistemological and ontological presuppositions, which is why, as abstract as it may seem it is necessary to investigate and critique these underpinnings. It is with this insight that we then began an investigation into the fetish object that is Artificial intelligence. We will return to these notions of spatiality at the end to see what a non-euclidean understanding space has to say about the ways in which AI is shaping and being shaped by our modern techno-culture. 
 
